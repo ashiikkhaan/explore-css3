@@ -1,0 +1,21 @@
+transform: rotate() [here we can you degree or turn]
+transform: rotate3d()
+transform: rotateX()
+transform: rotateY()
+transform: rotateZ()
+
+
+transform: scale();
+transform: scale
+
+transform: translate();
+
+so, "transform: rotate();" actually element ta k ghuray dane bame ba upore niche rotate koray.
+"transform: scale();" actually element ta k zoom in nd zoom out kore.
+"transform: translate();" element er place change kore upore niche ba dane bame...
+
+
+transition property: 
+first e kon property ta ke transition kora hobe(transition property)>> time duration>> time funtionning means 
+kivabe transition hobe>> transition delay means that hover er koto khon pore transition start hobe.
+so, transtion property time duration time functioning transition delay {follow this sequence}
